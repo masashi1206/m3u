@@ -2,9 +2,12 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1  group-title="mylist" tvg-logo="https://tb.zbds.top/logo/贵州卫视.png",贵州公共720P
 https://stream.iptv-search.com/iptv_test/main.php?id=%E8%B4%B5%E5%B7%9E%E5%85%AC%E5%85%B1&t=1760585411&token=edc2ba03491ae331bf4e9f61598eb902
-#EXTINF:-1  group-title="mylist" tvg-logo="https://tb.zbds.top/logo/CCTV8.png",CCTV8-1080P
+#EXTINF:-1  group-title="mylist" tvg-logo="https://tb.zbds.top/logo/CCTV8.png",CCTV8-1080P-01
 http://115.195.129.43:8888/udp/233.50.201.199:5140
-#EXTINF:-1  group-title="mylist" tvg-logo="https://tb.zbds.top/logo/CCTV8.png",CCTV8-1080P
+#EXTINF:-1  group-title="mylist" tvg-logo="https://tb.zbds.top/logo/CCTV8.png",CCTV8-1080P-02
 http://124.108.6.20:85/tsfile/live/0008_1.m3u8?key=txiptv
+#EXTINF:-1  group-title="mylist" tvg-logo="https://tb.zbds.top/logo/CCTV8.png",CCTV8-1080P-03
+https://stream1.freetv.fun/a15c826cb06f60854c3c203da5848c1cfb80ea188ddfd7ca83bd845f170ca2a1.m3u8
 #EXTINF:-1  group-title="mylist" tvg-logo="https://tb.zbds.top/logo/CCTV8.png",CCTV8-720P
 http://api.kkitv.itv888.cn:8080/hls/vseo1nm7qp/index.m3u8
+
