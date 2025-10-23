@@ -1,6 +1,3 @@
-#EXTINF:-1  group-title="贵州" tvg-logo="https://tb.zbds.top/logo/贵州卫视.png",贵州公共
-https://stream.iptv-search.com/iptv_test/main.php?id=%E8%B4%B5%E5%B7%9E%E5%85%AC%E5%85%B1&t=1760585411&token=edc2ba03491ae331bf4e9f61598eb902
-webview://https://www.gzstv.com/tv/ch02
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 webview://https://yangshipin.cn/tv/home?pid=600001859
 webview://https://tv.cctv.com/live/cctv1/
@@ -52,6 +49,9 @@ webview://https://tv.cctv.com/live/cctv16/
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
 webview://https://yangshipin.cn/tv/home?pid=600001810
 webview://https://tv.cctv.com/live/cctv17/
+#EXTINF:-1  group-title="贵州" tvg-logo="https://tb.zbds.top/logo/贵州卫视.png",贵州公共
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%B4%B5%E5%B7%9E%E5%85%AC%E5%85%B1&t=1760585411&token=edc2ba03491ae331bf4e9f61598eb902
+webview://https://www.gzstv.com/tv/ch02
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="地方",安徽卫视
 webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
 webview://https://yangshipin.cn/tv/home?pid=600002532
@@ -1305,3 +1305,4 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="📡卫视频道",云南卫视
 http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226660/index.m3u8
+
