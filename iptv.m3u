@@ -1,6 +1,6 @@
 #EXTINF:-1  group-title="贵州" tvg-logo="https://tb.zbds.top/logo/贵州卫视.png",贵州公共
-https://stream.iptv-search.com/iptv_test/main.php?id=%E8%B4%B5%E5%B7%9E%E5%85%AC%E5%85%B1&t=1761535820&token=cc074250a5138c16ff5e7e41edf40b33
 webview://https://www.gzstv.com/tv/ch02
+https://stream.iptv-search.com/iptv_test/main.php?id=%E8%B4%B5%E5%B7%9E%E5%85%AC%E5%85%B1&t=1761535820&token=cc074250a5138c16ff5e7e41edf40b33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 webview://https://yangshipin.cn/tv/home?pid=600001859
 webview://https://tv.cctv.com/live/cctv1/
@@ -141,3 +141,4 @@ webview://https://yangshipin.cn/tv/home?pid=600190402
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="浙江",浙江卫视
 webview://https://yangshipin.cn/tv/home?pid=600002520
 webview://https://www.cztv.com/liveTV
+
